@@ -1,5 +1,5 @@
-# pico-template
-rpi pico template
+# pico-zero blink example
+blink ws2812 on pico-zero board with different color
 
 ## prepare
 
